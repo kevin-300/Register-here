@@ -24,7 +24,6 @@ body, html {
   border-radius: 10px;
   max-width: 400px;
   width: 100%;
-  backdrop-filter: blur(10px);
   color: white;
   text-align: center;
 }
